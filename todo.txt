@@ -1,0 +1,3 @@
+
+Functionality
+    once I get it working locally, transition to aws
